@@ -71,6 +71,7 @@ For this project, your jupyter notebook should meet the following specifications
 <br>    
 * Any SQL code written to source data should also be included.
 <br>
+<br>
 
 **_Findings_**
 
