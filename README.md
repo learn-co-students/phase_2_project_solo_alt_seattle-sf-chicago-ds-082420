@@ -69,7 +69,7 @@ For this project, your jupyter notebook should meet the following specifications
 <br>      
 * The notebook is written to technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.  
 <br>    
-* Any SQL code written to source data should also be included.  
+* Any SQL code written to source data should also be included.  <br>
 
 **_Findings_**
 
