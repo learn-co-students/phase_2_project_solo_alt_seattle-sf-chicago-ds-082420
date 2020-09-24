@@ -57,7 +57,7 @@ Your GitHub repository is the public-facing version of your project that your in
 
 Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
-#### 3. Jupyter Notebook Must-Haves
+#### Jupyter Notebook Must-Haves
 
 For this project, your jupyter notebook should meet the following specifications:
 
@@ -78,7 +78,7 @@ For this project, your jupyter notebook should meet the following specifications
 * Your notebook should clearly show how you arrived at your results for each hypothesis test, including how you calculated your p-values.   
 * You should also include any other statistics that you find relevant to your analysis, such as effect size. 
 
-### Non-Technical Presentation
+### 3. Non-Technical Presentation
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 2, these would be business executives interested in making decisions about an effective use of discounts. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
 
