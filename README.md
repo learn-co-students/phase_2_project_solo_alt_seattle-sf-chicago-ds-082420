@@ -41,23 +41,23 @@ To complete this project, you will need to turn in the following 4 deliverables:
 
 There are three deliverables for this project:
 
-### A GitHub repository
-### A Jupyter Notebook
-### A non-technical presentation
+### 1. A GitHub repository
+### 2. A Jupyter Notebook
+### 3. A non-technical presentation
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
 We provide a few resources to help you understand what makes for good deliverables. - The rubric associated with this assignment - A template for you to use, with an example for reference.
 
-### GitHub Repository
+### 1. GitHub Repository
 
 Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
 
-### Jupyter Notebook
+### 2. Jupyter Notebook
 
 Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
-#### Jupyter Notebook Must-Haves
+#### 3. Jupyter Notebook Must-Haves
 
 For this project, your jupyter notebook should meet the following specifications:
 
